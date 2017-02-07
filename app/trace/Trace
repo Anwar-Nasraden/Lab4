@@ -1,0 +1,5 @@
+Once the Administrator logs in with the right credentials, they are directed to Products page
+containing list of products. The Administrator has the privileges to create, delete and update the page.
+When adding a product the addProduct method is called and it presents a form for the
+details of the product to fill in. When the admin deletes an item by calling the deleteProduct
+the Products page gets updated and the item is being removed from the database.
